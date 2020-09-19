@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Brandon 👋
 
 <!--
 - 🔭 I’m currently working on a Web project
