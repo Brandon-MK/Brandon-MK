@@ -17,3 +17,6 @@
 <a href="https://github.com/Brandon-MK/Study_Timer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brandon-MK&repo=Study_Timer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+https://twitter.com/kalinaki_code
+https://github.com/Brandon-Mk
