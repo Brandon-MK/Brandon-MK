@@ -14,10 +14,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brandon-MK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brandons's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Brandon-MK/Study_Timer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brandon-MK&repo=Study_Timer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 ![Twitter stats](https://img.shields.io/twitter/follow/kalinaki_code?color=blue&label=Twitter%20FOLLOWERS&logo=twitter&style=for-the-badge)
 ![Github stats](https://img.shields.io/github/followers/Brandon-MK?color=blue&label=GITHUB%20FOLLOWERS&logo=github&style=for-the-badge)
 
