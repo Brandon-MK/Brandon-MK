@@ -16,4 +16,5 @@
 
 ![Twitter stats](https://img.shields.io/twitter/follow/kalinaki_code?color=blue&label=Twitter%20FOLLOWERS&logo=twitter&style=for-the-badge)
 ![Github stats](https://img.shields.io/github/followers/Brandon-MK?color=blue&label=GITHUB%20FOLLOWERS&logo=github&style=for-the-badge)
+https://www.codewars.com/users/Kalinaki%20Mosh/badges/large
 
