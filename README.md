@@ -1,9 +1,9 @@
 ### Hi there, I am Brandon 👋
 
 - 🔭 I’m currently working on a Web project
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on a JavaScript,Python project 
-- 💬 Ask me about Javascript or Python
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on a JavaScript project 
+- 💬 Ask me about Javascript  
 - 📫 How to reach me: On Twitter @kalinaki_code
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I love Coding!
@@ -16,5 +16,5 @@
 
 ![Twitter stats](https://img.shields.io/twitter/follow/kalinaki_code?color=blue&label=Twitter%20FOLLOWERS&logo=twitter&style=for-the-badge)
 ![Github stats](https://img.shields.io/github/followers/Brandon-MK?color=blue&label=GITHUB%20FOLLOWERS&logo=github&style=for-the-badge)
-![Codewar Badgses](https://www.codewars.com/users/Kalinaki%20Mosh/badges/large)
+![Codewar Badgses](https://www.codewars.com/users/Kalinaki%20Mosh/badges/small)
 
