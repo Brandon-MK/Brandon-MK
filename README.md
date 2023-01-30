@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on a projects
 - 🌱 I’m currently improving in programming
-- 👯 I’m looking to collaborate on a JavaScript/Pyhton project 
+- 👯 I’m looking to collaborate on a JavaScript/Python project 
 - 💬 Ask me about Javascript and Python
-- 📫 How to reach me: On Twitter @kalinakicodes
+- 📫 How to reach me: On Twitter [@kalinakicodes](https://twitter.com/Kalinakicodes)
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I love Coding!
 <a href="https://github.com/Brandon-MK/Brandon-MK">
